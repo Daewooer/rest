@@ -1,1 +1,1 @@
-# rest
+echo "# rest" >> README.md# rest
